@@ -48,7 +48,7 @@ section {
     margin-bottom: 50px;
 }
 
-/* --- NUEVO DISEÑO DE TARJETAS (GRID) --- */
+/* --- DISEÑO DE TARJETAS (GRID) --- */
 .menu-grid {
     display: grid;
     /* Crea columnas automáticas. Cada una de mínimo 300px. */
